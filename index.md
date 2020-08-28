@@ -3,4 +3,4 @@
 
 ## Another test.
 
-Making a link to [content1](/content1)
+Making a link to [content1](/p/content1)
