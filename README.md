@@ -1,2 +1,1 @@
-# mkipling.github.io
-
+A place for thoughts and notes. 
