@@ -1,8 +1,6 @@
----
-title: "Red Lentil Dahl"
----
+## Red Lentil Dahl
 
-## Ingredients
+### Ingredients
 
 - 1 C dry red lentils
 - 1 onion
@@ -15,7 +13,7 @@ title: "Red Lentil Dahl"
 - 4 petals star anise
 - salt / pepper
 
-## Method
+### Method
 
 - Soak lentils at room temperature overnight.
 - Drain lentils, add to pot with 1 C water. Bring to boil. Reduce to simmer for 12min.
