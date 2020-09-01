@@ -4,7 +4,7 @@
 
 ## Test Title
 
-Making a link to [content1](/content1)
+- [article1](/article1)
 
 And then the content is here!
 
