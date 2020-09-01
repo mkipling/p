@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="/style.css" />
-
 {% include header.html %}
 
 ## Test Title
