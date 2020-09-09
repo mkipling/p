@@ -1,3 +1,5 @@
 collections:
-  - r
-  - tests
+  r:
+    output: true
+  tests:
+    output: true
