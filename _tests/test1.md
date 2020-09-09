@@ -1,5 +1,5 @@
 ---
-title: Test 1
+Title: Test 1
 ---
 
 Some test 1 content
