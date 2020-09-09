@@ -2,6 +2,7 @@
 ### Recipes
 
 - [Red Lentil Dahl](/r/red-lentil-dahl)
+- [Sour Dough Starter](/r/sourdough-starter)
 
 ### Other
 
