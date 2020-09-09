@@ -2,7 +2,7 @@
 title: "Index"
 ---
 
-[Recipies](/r)
+[Recipes](/r)
 
 ### Other
 
