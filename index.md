@@ -11,5 +11,5 @@ title: "Index"
 ### Tests
 
 {% for test in site.tests %}
-  <a href="/tests/">{{ test.Title }}</a><br>
+  <a href="{{ test.url }}">{{ test.Title }}</a><br>
 {% endfor %}
