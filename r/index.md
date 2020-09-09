@@ -8,5 +8,6 @@ title: "Recipes"
 List:
 
 {% for item in site.recipes.articles %}
-  {{ item.title }}
+
+  - Item: T{{ item.title }} I{{item}}
 {% endfor %}
