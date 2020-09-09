@@ -11,6 +11,5 @@ title: "Index"
 ### Tests
 
 {% for test in site.tests %}
-  <h2>Test: {{ test.Title }}</h2>
-  <p>Content: {{ test.content | markdownify }}</p>
+  <a href="/tests/">{{ test.Title }}</a><br>
 {% endfor %}
