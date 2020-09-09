@@ -7,35 +7,84 @@
 
 </head>
 <body>  
-  <div class="title"><a href="/">index</a></div>
   
-  <div class="content">
-  {{ content }}
+  <div class="content post">
+
+    <div class="title">
+      <h1>{{ page.title }}</h1>
+    </div>
+    
+    <div class="post-content">
+      {{ content }}
+    </div>
+
   </div>
   
 </body>
+  
 <style>
-  body {
-    font-family: monospace;
-    font-size: 12px;
-    margin: 5px;
-  }
-  .title {
-    font-weight: bold;
-    padding-bottom: 5px;
-    border-bottom: 1px solid #eee;
-  }
-  .title a {
-    color: #222;  
-  }
   
-  .content {
-    margin-left: 10px;  
-  }
-  
-  ul {
+body {
+    font-family: monospace; 
+    margin: auto;
+    max-width: 50em;
+}
+
+.content {
+    padding: 1em;
+}
+
+ul {
     padding-left: 25px;
-  }
+}
+
+.index-post {
+    margin-top: 8px;
+}
+.index-date {
+    margin-left: 0px;
+    display: inline-block;
+    font-size: 0.2em;
+}
+.index-title {
+    display: inline-block;
+    font-size: 1.1em;
+}
+
+.post .title {
+    margin-bottom: 2em;
+}
+
+.post .links {
+    text-align: right;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.post .back {
+    font-size: 0.9em;
+}
+.post h1 {
+    font-size: 1.2em;
+    margin-bottom: 0px;
+}
+
+.post h2 {
+    font-size: 1.0em;
+    padding-top: 6px;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #eee;
+}
+
+.post h3 {
+    font-size: 0.8em;
+    padding-top: 6px;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #eee;
+}
+
+.post-date { font-size: 10px; }
 
 </style>
+  
 </html>
