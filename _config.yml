@@ -2,4 +2,4 @@ collections:
   tests:
     label: tests
     output: true
-    
+    permalink: /:collection/:name
