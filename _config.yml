@@ -1,5 +1,5 @@
 collections:
-  r:
-    output: true
   tests:
+    label: tests
     output: true
+    
