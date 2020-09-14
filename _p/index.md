@@ -4,6 +4,6 @@ title: Poems
 
 {% for p in site.p %}
   {% if p.title != "Poems" %}
-    [{{p.title}}]({{p.url}}) by {{p.author}}
+    <a href="{{ p.url }}">{{ p.title }}</a> by {{p.author}}<br>
   {% endif %}
 {% endfor %}
