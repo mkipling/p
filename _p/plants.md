@@ -1,5 +1,5 @@
 ---
-title: "Plants"
+title: Plants
 author: Johann Wolfgang Von Goethe
 ---
 
