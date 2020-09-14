@@ -1,6 +1,6 @@
 ---
-title: "The Island"
-author: "A. A. Milne"
+title: The Island
+author: A. A. Milne
 ---
 
 If I had a ship,
