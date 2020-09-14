@@ -1,7 +1,7 @@
 ---
 title: "Bavarian Potato Soup"
 date: 2012-09-12
-draft: false
+layout: default
 ---
 
 - pepper oil in frying pan
