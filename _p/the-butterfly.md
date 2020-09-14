@@ -1,6 +1,6 @@
 ---
-title: "The Butterfly"
-author: "Margaret Rose"
+title: The Butterfly
+author: Margaret Rose
 ---
 
 I know a little butterfly 
