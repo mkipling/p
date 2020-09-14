@@ -2,19 +2,16 @@
 title: "Index"
 ---
 
-[Recipes](/r)
-
 ### Other
 
 - [Article 1](/article1)
 
-### P
+### [p](/p)
 {% for p in site.p %}
-  <a href="{{ p.url }}">{{ p.title }}</a><br>
+  <a href="{{ p.url }}">{{ p.title }} by {{ p.author }}</a><br>
 {% endfor %}
 
-### Tests
-
-{% for test in site.tests %}
-  <a href="{{ test.url }}">{{ test.Title }}</a><br>
+### [r](/r)
+{% for r in site.r %}
+  <a href="{{ r.url }}">{{ r.title }}</a><br>
 {% endfor %}
