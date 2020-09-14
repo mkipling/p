@@ -2,6 +2,8 @@
 title: "Index"
 ---
 
-- [Article 1](/article1)
-- [Poems](/p)
-- [Recipes](/r)
+[French](/fr)<br>
+[Recipes](/r)<br>
+[Poems](/p)<br>
+<br>
+[Article 1](/article1)
