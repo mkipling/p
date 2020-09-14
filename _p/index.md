@@ -1,6 +1,5 @@
 ---
 title: Poems
-highlighter: none
 ---
 
 {% assign poems = site.p | where_exp: "item", "item.title != 'Poems'" %}
