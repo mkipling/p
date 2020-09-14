@@ -18,7 +18,6 @@ title: French
 | Go see mom. |	Va voir maman. |
 | Flush the toilet. | Vider les toilettes. |
 | Put your clothes on. | Mets tes vêtements. OR Habille-toi. |
-| Did you choose your clothes? You go get yourself dressed. | As-tu choisi tes vêtements? Tu vas te faire habiller. OR As-tu choisi tes vêtements? Va t'habiler. |
 | It's time to go! Get ready!	| Il est temps de partir! Soit prêt! |
 | Hurry up, we're late!	| Dépêche-toi, nous sommes en retard! |
 | Where are we going today? |	Où allons nous aujourd'hui? |
