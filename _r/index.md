@@ -3,5 +3,5 @@ title: "Recipes"
 ---
 
 {% for r in site.r %}
-  <a href="{{ r.url }}">{{ r.Title }}</a><br>
+  <a href="{{ r.url }}">{{ r.title }}</a><br>
 {% endfor %}
