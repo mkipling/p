@@ -1,6 +1,7 @@
 collections:
   r:
     label: r
+    output: true
     permalink: /:collection/:name
     layout: default
   p:
