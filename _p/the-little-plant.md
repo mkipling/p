@@ -1,6 +1,6 @@
 ---
-title: "The Little Plant"
-author: "Kate Louise Brown"
+title: The Little Plant
+author: Kate Louise Brown
 ---
 
 In the heart of a seed,
