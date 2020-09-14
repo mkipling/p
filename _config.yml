@@ -1,8 +1,4 @@
 collections:
-  tests:
-    label: tests
-    output: true
-    permalink: /:collection/:name
   r:
     label: r
     output: true
