@@ -1,6 +1,7 @@
 ---
 title: Plants
 author: Johann Wolfgang Von Goethe
+layout: default
 ---
 
 If Nature Study be your goal,
