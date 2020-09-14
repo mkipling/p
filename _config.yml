@@ -3,3 +3,11 @@ collections:
     label: tests
     output: true
     permalink: /:collection/:name
+  r:
+    label: r
+    output: true
+    permalink: /:collection/:name
+  p:
+    label: p
+    output: true
+    permalink: /:collection/:name
