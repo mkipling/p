@@ -8,6 +8,11 @@ title: "Index"
 
 - [Article 1](/article1)
 
+### P
+{% for p in site.p %}
+  <a href="{{ p.url }}">{{ p.Title }}</a><br>
+{% endfor %}
+
 ### Tests
 
 {% for test in site.tests %}
