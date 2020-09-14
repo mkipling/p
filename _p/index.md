@@ -1,5 +1,5 @@
 ---
-title: "Poems"
+title: Poems
 ---
 
 {% for p in site.p %}
