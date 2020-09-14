@@ -1,5 +1,5 @@
 ---
-title: "Spring Morning"
+title: Spring Morning
 author: "A. A. Milne"
 ---
 
