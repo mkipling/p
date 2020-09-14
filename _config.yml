@@ -2,7 +2,9 @@ collections:
   r:
     label: r
     permalink: /:collection/:name
+    layout: default
   p:
     label: p
     output: true
     permalink: /:collection/:name
+    layout: default
