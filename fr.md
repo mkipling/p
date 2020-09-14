@@ -12,4 +12,8 @@ title: French
 
 ### Morning
 
-
+| EN | FR |
+| :--- | :--- |
+| Did you sleep well? |	As-tu bien dormi?
+| I slept well.	| J'ai bien dormi.
+| Wake up mom. | Réveille maman.
