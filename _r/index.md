@@ -4,5 +4,5 @@ title: "Recipes"
 
 {% assign recipes = site.r | where_exp: "item", "item.title != 'Recipes'" %}
 {% for r in recipes %}
-- <a href="{{ r.url }}">{{ r.title }}
+1. <a href="{{ r.url }}">{{ r.title }}
 {% endfor %}
