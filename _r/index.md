@@ -2,7 +2,9 @@
 title: "Recipes"
 ---
 
+<ul class="index">
 {% assign recipes = site.r | where_exp: "item", "item.title != 'Recipes'" %}
 {% for r in recipes %}
-1. <a href="{{ r.url }}">{{ r.title }}
+  <li><a href="{{ r.url }}">{{ r.title }}</li>
 {% endfor %}
+  </ul>
