@@ -1,4 +1,9 @@
 collections:
+  a:
+    label: a
+    output: true
+    permalink: /:collection/:name
+    layout: default
   r:
     label: r
     output: true
