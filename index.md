@@ -3,7 +3,7 @@ title: "Index"
 ---
 
 <ul class="index">
-  <li>[Articles](/a)</li>
-  <li>[Recipes](/r)</li>
-  <li>[Poems](/p)</li>
+  <li><a href="/a">Articles</a></li>
+  <li><a href="/r">Recipes</a></li>
+  <li><a href="/p">Poems</a></li>
 </ul>
