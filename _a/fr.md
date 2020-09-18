@@ -23,3 +23,21 @@ title: French
 | It's time to go! Get ready!	| Il est temps de partir! Soit prêt!
 | Hurry up, we're late!	| Dépêche-toi, nous sommes en retard!
 | Where are we going today? |	Où allons nous aujourd'hui?
+
+## Getting ready for bed
+
+
+### Opposites
+
+- up, down, 
+- over, under, in front, behind
+- in, out, inside, outside
+- true, false, right, wrong, truth, lie, correct, incorrect
+
+### Categories
+
+- to learn, to know, to understand, to teach
+- to hear, to listen
+- to eat, to cook, to make, to taste, to smell, to take a bite
+- to clean, to wash, to organize
+- to take, to put, to lift, to drop
