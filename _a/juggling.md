@@ -21,3 +21,9 @@ Juggling can be personalized by the choice of: pattern, tempo, shape, transition
 
 In rare cases, objects juggled take on a personality, they become animated with energy and emotion. Juggling becomes performance, and can evoke emotions. 
 
+`
+One day a centipede walked by a frog,
+Who asked "Which leg comes after which?"
+She said, "I've never thought about it much",
+So just then she did, and fell in a ditch!
+`
