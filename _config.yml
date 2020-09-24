@@ -4,6 +4,11 @@ collections:
     output: true
     permalink: /:collection/:name
     layout: default
+  b:
+    label: b
+    output: true
+    permalink: /:collection/:name
+    layout: default
   r:
     label: r
     output: true
