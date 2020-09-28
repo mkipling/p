@@ -1,7 +1,6 @@
 ---
-title: "Beef Jerky"
-date: 2019-03-24
-draft: false
+title: Beef Jerky
+category: Snack
 ---
 
 ## Ingredients
