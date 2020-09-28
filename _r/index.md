@@ -25,7 +25,7 @@ title: Recipes
   {% else %}
     <h3>{{ cat.name }}</h3>
   {% endif %}
-  <ul>
+  <ul class="index">
     {% for r in cat.items %}
       <li><a href="{{ r.url }}">{{ r.title }}</a></li>
     {% endfor %}
