@@ -1,6 +1,6 @@
 ---
 title: Beef Stew 1
-cateogyr: Sunday
+category: Sunday
 ---
 
 ## Ingredients
