@@ -1,7 +1,6 @@
 ---
-title: "Blackened Chicken"
-date: 2011-06-01
-draft: false
+title: Blackened Chicken
+category: Dinner
 ---
 
 ## Ingredients
