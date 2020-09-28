@@ -1,8 +1,9 @@
 ---
-title: "Bavarian Potato Soup"
-date: 2012-09-12
-layout: default
+title: Bavarian Potato Soup
+category: Pre-Dinner
 ---
+
+## Method
 
 - pepper oil in frying pan
 - onion in pan till soft
