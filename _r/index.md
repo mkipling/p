@@ -21,7 +21,7 @@ title: Recipes
 {% assign recipesByCategory = site.r | group_by_exp: "r", "r.category" %}
 {% for cat in recipesByCategory %}
   {{ cat }}
-  {% if cat.name == "" %}
+  {% if cat.name == nil %}
     <b>No Category</b>
   {% else %}
     <b>{{ cat.name }}</b>
