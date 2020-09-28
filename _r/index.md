@@ -5,6 +5,13 @@ title: Recipes
 <ul class="index">
 {% assign recipes = site.r | where_exp: "item", "item.title != 'Recipes'" %}
 {% for r in recipes %}
-<li><a href="{{ r.url }}">{{ r.title }}</a> ({{ r.category }})</li>
+  
+  {% assign currentCategory = r.category %}
+  {% if currentCategory != category %}
+    <b>Category: {{ r.category }}</b>
+    {% assign category = currentdate %} 
+  {% endif %}
+  
+  <li><a href="{{ r.url }}">{{ r.title }}</a></li>
 {% endfor %}
 </ul>
