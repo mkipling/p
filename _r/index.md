@@ -20,10 +20,11 @@ title: Recipes
 
 {% assign recipesByCategory = site.r | group_by_exp: "r", "r.category" %}
 {% for cat in recipesByCategory %}
+  {{ cat }}
   {% if cat.name == "" %}
-    <h3>No Category</h3>
+    <b>No Category</b>
   {% else %}
-    <h3>{{ cat.name }}</h3>
+    <b>{{ cat.name }}</b>
   {% endif %}
   <ul class="index">
     {% for r in cat.items %}
