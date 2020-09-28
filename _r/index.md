@@ -20,7 +20,7 @@ title: Recipes
 
 {% assign recipesByCategory = site.r | group_by_exp: "r", "r.category" %}
 {% for cat in recipesByCategory %}
-  <h1>{{ cat }}</h1>
+  <h3>{{ cat.name }}</h3>
   <ul>
     {% for r in cat.items %}
       <li><a href="{{ r.url }}">{{ r.title }}</a></li>
