@@ -30,6 +30,7 @@ Progress is the idea that change is constant, and that it has direction: good an
   Principles:
     - Left hand rule: always do the difficult part first.
     - Compound interest: pay attention to the growth that comes from early and consistent application of effort. 
+    - If you don't use it you lose it: progress is temporary, and can be lost through neglect. Constant 
     
 Balance means that no one aspect in your life can consume all others. It's the recognition that life is composed of a number of different priorities, none of which should hurt the others.
   Principles:
