@@ -1,5 +1,5 @@
 ---
-title: Chimichurri #1
+title: Chimichurri 1
 category: Condiments
 ---
 
