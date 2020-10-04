@@ -1,5 +1,5 @@
 ---
-title: Chimichurri #2
+title: Chimichurri 2
 category: Condiments
 ---
 
