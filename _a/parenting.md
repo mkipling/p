@@ -8,6 +8,11 @@ A parent is a primary person responsible for guiding and protecting a child into
 
 For me, guiding a child means instilling values, and developing skills that will let them live a life they choose.
 
+What is the best way to approach teaching?
+How should I say no?
+How should I encourage?
+
+
 What values?
 
 Character:
