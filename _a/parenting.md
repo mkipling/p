@@ -1,6 +1,5 @@
 ---
 title: Parenting
-date: 2020-10
 ---
 
 What does it mean to be a parent, and how do I do it well?
