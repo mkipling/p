@@ -13,7 +13,7 @@ collections:
     label: r
     output: true
     permalink: /:collection/:name
-    layout: default
+    layout: recipe
   p:
     label: p
     output: true
