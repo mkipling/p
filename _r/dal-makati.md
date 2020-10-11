@@ -5,7 +5,7 @@ category: Indian
 
 ## Ingredients
 
-### P1
+A)
 - 1 large onion, chopped
 - 1 Tbsp ginger, chopped
 - 3 garlic cloves, chopped
@@ -15,7 +15,7 @@ category: Indian
 - 1 tsp garam masala
 - 1/2 C urad beans (soaked overnight)
 
-### P2
+B)
 - 2 Tbsp. heavy cream
 - 2 Tbsp. cilantro leaves, chopped
 - 2 Tbsp. butter
@@ -24,10 +24,10 @@ category: Indian
 
 ## Method
 
-- Cover P1 with 1" water. Bring to boil. Simmer 1 hour till well cooked, almost disolving.
+- Cover A) with 1" water. Bring to boil. Simmer 1 hour till well cooked, almost disolving.
 - Remove from heat. Add salt, cream, cilantro.
 - Heat butter, fry garlic 1 min, add tomato and fry till soft.
-- Add to P1. 
+- Add to A).
 
 ## Notes
 
