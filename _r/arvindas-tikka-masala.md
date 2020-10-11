@@ -1,5 +1,5 @@
 ---
 title: Arvindas Tikka Masala
-category: Dinner
+category: Indian
 ---
 
