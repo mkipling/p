@@ -1,6 +1,6 @@
 ---
-title: "Irish Soda Furls"
-date: 2019-09-18T20:45:06-04:00
+title: Irish Soda Furls
+date: 2019-09-18
 category: Bread
 ---
 
@@ -9,7 +9,6 @@ category: Bread
 - 2C All purpose flour
 - 1/2 tsp. Salt
 - 1 tsp. Baking soda
-
 - 1C Butter milk
 
 ## Method
