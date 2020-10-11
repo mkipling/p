@@ -4,15 +4,14 @@ title: Recipes
 
 {% assign recipesByCategory = site.r | group_by_exp: "r", "r.category" %}
 {% for cat in recipesByCategory %}
-{% if cat.name == nil %}
-No Category
-{% else %}
-{{ cat.name }}
-{% endif %}
-<ul class="index">
-{% for r in cat.items %}
-<li><a href="{{ r.url }}">{{ r.title }}</a></li>
-{% endfor %}
-</ul>
+
+  {% if cat.name == nil %}No Category{% else %}{{ cat.name }}{% endif %}
+
+  <ul class="index">
+    {% for r in cat.items %}
+      <li><a href="{{ r.url }}">{{ r.title }}</a></li>
+    {% endfor %}
+  </ul>
+  
 {% endfor %}
 
