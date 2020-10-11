@@ -1,7 +1,7 @@
 ---
-title: "Red Lentil Dahl"
+title: Red Lentil Dahl 
+category: Indian
 date: 2019-06-13
-draft: false
 ---
 
 ## Ingredients
