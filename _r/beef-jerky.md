@@ -7,7 +7,7 @@ category: Snack
 
 - flank steak, or similar fatless meat
 
-A)
+Marinade A (Hunan dry rib style)
 
 - soy sauce
 - xiaoshing wine
