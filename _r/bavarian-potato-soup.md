@@ -1,6 +1,6 @@
 ---
 title: Bavarian Potato Soup
-category: Pre-Dinner
+category: Soup
 ---
 
 ## Method
