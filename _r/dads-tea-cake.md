@@ -1,7 +1,7 @@
 ---
 title: "Dads Tea Cake"
-date: 2018-10-12T20:46:57-04:00
-draft: false
+date: 2018-10-12
+category: Sweet
 ---
 
 ## Ingredients
