@@ -2,7 +2,7 @@
 title: Recipes
 ---
 
-{% assign recipesByCategory = site.r | group_by_exp: "r", "r.category" %}
+{% assign recipesByCategory = site.r | group_by_exp: "r", "r.category" | sort: "name" %}
 {% for cat in recipesByCategory %}
 
   {% if cat.name == nil %}Not Categorized{% else %}{{ cat.name }}{% endif %}
