@@ -1,7 +1,7 @@
 ---
 title: "Weekday Pizza Dough"
 date: 2019-10-06T20:50:45-04:00
-draft: false
+category: Bread
 ---
 
 ## Ingredients
