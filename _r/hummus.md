@@ -1,6 +1,6 @@
 ---
 title: Hummus
-category: Condiment
+category: Condiments
 ---
 
 ## Ingredients
