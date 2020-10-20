@@ -3,7 +3,7 @@ title: Tahini Sauce
 category: Condiments
 ---
 
-### Ingredients
+## Ingredients
 
 - 60g tahini paste (~4 tbsp)
 - 1.5 tbsp lemon juice
@@ -11,7 +11,7 @@ category: Condiments
 - pinch of salt, to taste
 - 3 tbsp water, plus 1tsp water (as needed)
 
-### Method
+## Method
 
 - Whisk all in bowl, except water.
 - Slowly add water while whisking until smooth. 
