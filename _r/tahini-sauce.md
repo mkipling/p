@@ -1,6 +1,6 @@
 ---
 title: Tahini Sauce
-category: Condiment
+category: Condiments
 ---
 
 ### Ingredients
