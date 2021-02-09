@@ -1,21 +1,16 @@
 collections:
-  a:
-    label: a
-    output: true
-    permalink: /:collection/:name
-    layout: default
-  b:
-    label: b
-    output: true
-    permalink: /:collection/:name
-    layout: default
   r:
     label: r
     output: true
     permalink: /:collection/:name
     layout: default
-  p:
-    label: p
+  c:
+    label: c
+    output: true
+    permalink: /:collection/:name
+    layout: default
+  w:
+    label: w
     output: true
     permalink: /:collection/:name
     layout: default

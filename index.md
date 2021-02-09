@@ -3,8 +3,8 @@ title: "Index"
 ---
 
 <ul class="index">
-<li><a href="/a">Articles</a></li>
-<li><a href="/b">Books</a></li>
-<li><a href="/r">Recipes</a></li>
-<li><a href="/p">Poems</a></li>
+
+<li><a href="/r">Reading</a></li>
+<li><a href="/w">Writing</a></li>
+<li><a href="/c">Cooking</a></li>
 </ul>
