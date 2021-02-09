@@ -1,8 +1,8 @@
 ---
-title: Recipes
+title: Cooking
 ---
 
-{% assign recipesByCategory = site.r | group_by_exp: "r", "r.category" | where_exp: "item", "item.title != 'Recipes'" | sort: "name" %}
+{% assign recipesByCategory = site.c | group_by_exp: "c", "c.category" | where_exp: "item", "item.title != 'Cooking'" | sort: "name" %}
 {% for cat in recipesByCategory %}
 
   {% if cat.name == nil %}No Category{% else %}{{ cat.name }}{% endif %}

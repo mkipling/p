@@ -1,10 +1,10 @@
 ---
-title: Poems
+title: Reading
 ---
 
 <ul class="index">
-{% assign poems = site.p | where_exp: "item", "item.title != 'Poems'" %}
-{% for p in poems %}
-<li><a href="{{ p.url }}">{{ p.title }}</a> by {{ p.author }}</li>
+{% assign reading = site.r | where_exp: "item", "item.title != 'Reading'" %}
+{% for r in reading %}
+<li><a href="{{ r.url }}">{{ r.title }}</a> by {{ r.author }}</li>
 {% endfor %}
 </ul>
