@@ -3,10 +3,7 @@ title: Principles
 author: Ray Dalio
 ---
 
-"Your values are what you consider important, literally what you “value.” Principles are what allow
-you to live a life consistent with those values. Principles connect your values to your actions; they
-are beacons that guide your actions, and help you successfully deal with the laws of reality. It is
-to your principles that you turn when you face hard choices." - Ray Dalio
+"Your values are what you consider important, literally what you 'value'. Principles are what allow you to live a life consistent with those values. Principles connect your values to your actions; they are beacons that guide your actions, and help you successfully deal with the laws of reality. It is to your principles that you turn when you face hard choices." - Ray Dalio
 
 With these lines early in the book, Ray Dalio outlines a systematic method, tailored to each reader, allowing someone to define
 and reach success on their terms. He attempts to tell you how to get what you want, but not what you should want. The simplicity of it is clarifying. What do you value? Stop and think about that. Reflect on your life experiences. Once you've done that, uncover a set of heuristics, rules of thumb, proverbs or principles that you can use to live a life that is consistent with your values. Your principles are what will connect your actions to your values. 
